@@ -1,11 +1,9 @@
 import random
-lst = [random.randrange(0,30) for _ in range(0,50)]
-print(lst)
+lst = [random.randrange(0,31) for _ in range(0,50)]
+print("Original List",lst)
 n=1
-for i in range(0,50):
-    if(n in lst):
-        lst.remove(n)
-        lst.append(n)
-    n+=1
-print(lst)
-
+unique_lst=[]
+for i in lst:
+    if(i not in unique_lst):
+        unique_lst.append(i)
+print("Unique List:",unique_lst)
