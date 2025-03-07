@@ -1,4 +1,4 @@
-from math import sqrt,pow
+import math
 # 1.)comparison between two numbers
 
 # n1 = int(input("Enter number n1: "))
