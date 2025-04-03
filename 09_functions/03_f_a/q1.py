@@ -8,3 +8,17 @@ def msg():
 lst = [fun,disp,msg]
 for i in lst:
     i()
+
+'''
+def fun():
+  return 1
+def disp():
+  return 2
+def msg():
+  return 3
+
+lst = [fun(),disp(),msg()]
+for i in lst:
+  print(i)
+'''
+  
