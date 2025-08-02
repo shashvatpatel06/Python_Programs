@@ -10,5 +10,5 @@
 9. Print N natural nos. in reverse.
 10. Generate N numbers of Fibonacci series.
 11. Calculate sin(x); x is a radian value. The formula is as under:
-sin⁡〖x=x- x^3/3!〗+  x^5/5!-  x^7/7!… (hint: degrees can be converted into radians by 3.14159 / 180.)
+sin⁡[x=x- x^3/3]+  x^5/5!-  x^7/7!… (hint: degrees can be converted into radians by 3.14159 / 180.)
 
