@@ -14,7 +14,7 @@
 13)	Convert number 0 to 19 to its equivalent words. E.g. 0  zero, 19nineteen.
 14)	Accept marks of three subjects. Print total and average along with whether a candidate has passed or fail. If student secures <= 39 marks in any subject, consider him as fail. Also assigned a subject wise grade based on the following table:
 Marks Range	Grade
-Absent	NA
+Absent-NA
 0 – 39	F
 40 – 44	P
 45 – 49	C
