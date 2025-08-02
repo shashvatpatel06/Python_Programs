@@ -12,8 +12,8 @@
 11)	Given three points (x1,y1), (x2,y2) and (x3,y3), check if all the three points fall on one straight line.
 12)	Given the coordinates (x,y) of center of a circle and its radius, determine whether a point lies inside the circle, on the circle or outside the circle. (Hint: Use sqrt( ), pow( ) )
 13)	Convert number 0 to 19 to its equivalent words. E.g. 0  zero, 19nineteen.
-14)	Accept marks of three subjects. Print total and average along with whether a candidate has passed or fail. If student secures <= 39 marks in any subject, consider him as fail. Also assigned a subject wise grade based on the following table:
-Marks Range	Grade (Absent-NA)<br>
+14)	Accept marks of three subjects. Print total and average along with whether a candidate has passed or fail. If student secures <= 39 marks in any subject, consider him as fail. Also assigned a subject wise grade based on the following table:<br>
+Marks-Range	Grade (Absent-NA)<br>
 0 – 39	F<br>
 40 – 44	P<br>
 45 – 49	C<br>
